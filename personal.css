@@ -1,0 +1,211 @@
+html{
+	height: 100%;
+}
+body{
+	margin: 0;
+	font-family: 'Inconsolata', monospace;
+}
+
+header img{
+	max-width: 100%;
+}
+nav{
+	position: fixed;
+	z-index: 1;
+	left: 0;
+	right: 0;
+	font-size: 22px;
+	font-family: 'Prata', serif;
+}
+ul.navigation p{
+display: inline-block;
+margin: 0 15px;
+/*color: #20c4bb;*/
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Climate Crisis', cursive;
+	font-weight: normal;
+}
+
+h1{
+	font-size: 150px;
+	margin: 0;
+}
+
+.works{
+	color: #16736e;
+}
+.works h2{
+	color: #41ccc4; 
+}
+
+.myjourney h3{
+	color: #003170;
+}
+
+.contact{
+	color: #f3747b;
+}
+h2{
+	font-size: 100px;
+}
+h3{
+	font-size: 50px;
+}
+
+h5{
+	font-size: 32px;
+	color: #16736e;
+	background-color: #75e3dd;
+	display: inline-block;
+	margin: 0;
+	padding: 4px;
+}
+
+a{
+	letter-spacing: 2px;
+	color: #2ce6dc;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+p {
+	line-height: 145%;
+}
+.works{
+	color: #16736e;
+}
+
+.myjourney{
+	color: #306fbf;
+	margin: 0 0 70px 0;
+	line-height: 100%;
+}
+ul.navigation{
+	text-align: center;
+}
+
+.left-col,.right-col{
+	color: #fff;
+	text-align: center;
+	height: 90vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.left-col {
+	background-color: #003170;
+	
+}
+
+.scroll{
+	color: #2864b1;
+	text-align: center;
+}
+.right-col{
+	background-color: #75e3dd;
+}
+
+.wola img{
+
+}
+
+h4{
+	font-size: 50px;
+}
+.contact h4{
+	color: #16736e;
+}
+
+.media{
+	padding-bottom: 20%;
+}
+
+.work-img{
+	position: relative;
+
+}
+
+.extra-gutters{
+	padding: 0 60px;
+}
+
+.works h5{
+	position: absolute;
+	z-index: 1;
+	top: -40px;
+}
+.myjourney h3{
+	color: #305fbf;
+	margin: 0 0 70px 0;
+}
+main img{
+	max-width: 100%;
+	padding-right: 10%;
+/*	padding: 10%;*/
+}
+
+.works a {
+	letter-spacing: 3px;
+	color: #16736e;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 0 60px;
+}
+
+.link-1{
+	padding: 0 15px;
+}
+
+.link-3{
+	padding: 0 25px;
+}
+
+.right-aligned{
+	text-align: right;
+}
+
+.navigation p a{
+	color: #20c4bb;
+	text-decoration: none;
+}
+
+
+}
+.top-container{
+	width: 500px;
+	margin: 0 auto;
+}
+
+h6 {
+font-size: 32px;
+color: #16736e;
+background-color: #75e3dd;
+display: inline-block;
+margin: 0;
+padding: 10px;
+}
+
+footer{
+	background-color: #f4979c;
+	min-height: 220px;
+	background-image: url(file:///Users/anuraghansda/Downloads/package/hello-colors/img/socialmedia.svg);
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: center;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 60px;
+}
+
+.social-icon{
+	height: 60px;
+	margin: 10px 20px;
+}
+.social-icon-container{
+	text-align: center;
+}
